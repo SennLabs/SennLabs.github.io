@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://blog.sennlab.com/</loc>
+         <lastmod>2024-12-20</lastmod>
+    </url>
+    <url>
+         <loc>https://blog.sennlab.com/blog/</loc>
+         <lastmod>2024-12-20</lastmod>
+    </url>
+    <url>
+         <loc>https://blog.sennlab.com/blog/2023/12/31/happy-new-years-eve-2k/</loc>
+         <lastmod>2024-12-20</lastmod>
+    </url>
+    <url>
+         <loc>https://blog.sennlab.com/blog/archive/2023/</loc>
+         <lastmod>2024-12-20</lastmod>
+    </url>
+    <url>
+         <loc>https://blog.sennlab.com/blog/category/holidays/</loc>
+         <lastmod>2024-12-20</lastmod>
+    </url>
+    <url>
+         <loc>https://blog.sennlab.com/blog/category/dateofbig/</loc>
+         <lastmod>2024-12-20</lastmod>
+    </url>
+    <url>
+         <loc>https://blog.sennlab.com/blog/tags/</loc>
+         <lastmod>2024-12-20</lastmod>
+    </url>
+</urlset>

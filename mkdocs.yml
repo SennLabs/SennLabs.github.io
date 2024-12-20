@@ -1,0 +1,23 @@
+site_name: SennLab
+site_description: SennLab Blog
+site_url: https://blog.sennlab.com
+theme:
+  name: material
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: cyan
+plugins:
+  - search
+  - blog
+  - tags:
+      tags_file: blog/tags.md
+nav:
+  - Home: index.md
+  - Install: install.md
+  - Usage: usage.md
+  - Blog:
+    - blog/index.md
+  - Tags: blog/tags.md
