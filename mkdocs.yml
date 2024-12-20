@@ -1,6 +1,6 @@
 site_name: SennLab
 site_description: SennLab Blog
-site_url: https://blog.sennlab.com
+site_url: https://sennlabs.github.io
 theme:
   name: material
   logo: assets/logo.svg
