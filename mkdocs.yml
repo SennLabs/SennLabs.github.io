@@ -1,5 +1,5 @@
 site_name: SennLab
-site_description: SennLab Blog
+site_description: SennLab Blogs
 site_url: https://sennlabs.github.io
 theme:
   name: material
