@@ -2,6 +2,9 @@
 date:
   created: 2024-12-20
   updated: 2025-01-08
+title: AndroidCompute
+slug: AndroidCompute
+description: A short description of document content that encourage to read it
 categories:
   - Programming
   - Project
@@ -9,6 +12,8 @@ tags:
   - Android
   - Cluster Compute
   - HPC
+hide:
+    - tags
 comments: true
 ---
 
@@ -18,6 +23,9 @@ comments: true
 ### Cluster
 A Cluster is a group of computers that are generally treated as a single system
 This system works together together with each node set to perform the same task, controlled and scheduled by software. 
+
+<!-- more -->
+
 Generally these computers are located physically close to each other and are connected via LAN
 Because of the local connection, these computers can have frequent communication with each other and/or the master node
 Clusters can be used to allow for high availability and/or load balencing

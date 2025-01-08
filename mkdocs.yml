@@ -12,13 +12,29 @@ theme:
     accent: cyan
 plugins:
   - search
-  - blog
   - tags:
-      tags_file: blog/tags.md
+      tags_file: tags.md
+  - pub-blog:
+      teaser_marker: "<!-- more -->"
+      searchable_non_posts: false
+      posts_per_page: 5
+      slug: blog
+  - pub-meta:
+      overview:
+        enable: true
+        default: auto
+        key_name: slug
+  - pub-social:
+      site_name_in_title:
+        location: after
+        delimiter: " - "
+      og:
+        enabled: true
+        locale: en_us
 nav:
   # - Home: index.md
   # - Install: install.md
   # - Usage: usage.md
-  - Blog:
-    - blog/index.md
-  - Tags: blog/tags.md
+  # - Blog:
+  #   - blog/index.md
+  - Tags: tags.md
