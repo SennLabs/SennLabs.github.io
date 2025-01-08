@@ -11,6 +11,7 @@ theme:
     primary: indigo
     accent: cyan
 nav:
+  - Any name: blog
   - Tags: tags.md
 plugins:
   - search
@@ -23,7 +24,7 @@ plugins:
       slug: blog
   - pub-meta:
       overview:
-        enable: true
+        # enable: true
         default: auto
         key_name: slug
   - pub-social:
