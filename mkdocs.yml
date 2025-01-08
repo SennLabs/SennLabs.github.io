@@ -3,6 +3,7 @@ site_description: SennLab Blogs
 site_url: https://sennlabs.github.io
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/logo.svg
   favicon: assets/logo.svg
   palette:

@@ -1,6 +1,7 @@
 ---
 date:
   created: 2024-12-20
+  updated: 2025-01-08
 categories:
   - Programming
   - Project
@@ -8,6 +9,7 @@ tags:
   - Android
   - Cluster Compute
   - HPC
+comments: true
 ---
 
 # Android Compute Cluster/Grid
