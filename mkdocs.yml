@@ -10,6 +10,8 @@ theme:
     scheme: slate
     primary: indigo
     accent: cyan
+nav:
+  - Tags: tags.md
 plugins:
   - search
   - tags:
@@ -31,10 +33,3 @@ plugins:
       og:
         enabled: true
         locale: en_us
-nav:
-  # - Home: index.md
-  # - Install: install.md
-  # - Usage: usage.md
-  # - Blog:
-  #   - blog/index.md
-  - Tags: tags.md

@@ -1,7 +1,6 @@
 ---
-date:
-  created: 2024-12-20
-  updated: 2025-01-08
+date: 2024-12-20
+update: 2025-01-08
 title: AndroidCompute
 slug: AndroidCompute
 description: A short description of document content that encourage to read it
@@ -15,6 +14,7 @@ tags:
 hide:
     - tags
 comments: true
+publish: true
 ---
 
 # Android Compute Cluster/Grid
