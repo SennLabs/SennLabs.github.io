@@ -24,7 +24,6 @@ plugins:
       slug: blog
   - pub-meta:
       overview:
-        # enable: true
         default: auto
         key_name: slug
   - pub-social:

@@ -1,4 +1,5 @@
 ---
+title: Tags
 publish: true
 ---
 # Tags

@@ -9,7 +9,7 @@ categories:
   - Project
 tags:
   - Android
-  - Cluster Compute
+  - ClusterCompute
   - HPC
 hide:
     - tags
