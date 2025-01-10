@@ -1,31 +1,37 @@
 site_name: SennLab
 site_description: SennLab Blogs
 site_url: https://sennlabs.github.io
+
+theme:
 theme:
   name: material
-  custom_dir: overrides
   logo: assets/logo.svg
   favicon: assets/logo.svg
   palette:
     scheme: slate
     primary: indigo
     accent: cyan
+  custom_dir: overrides/
+  features:
+    - navigation.tabs
+    - navigation.sections  # Useful for an overview
+    - navigation.indexes  # Needed for an overview
+
 nav:
   - Any name: blog
   - Tags: tags.md
+  - missions: missions/index.md
+
 plugins:
   - search
-  - tags:
-      tags_file: tags.md
   - pub-blog:
       teaser_marker: "<!-- more -->"
       searchable_non_posts: false
       posts_per_page: 5
       slug: blog
+      blog_dir: 03_blog
   - pub-meta:
-      overview:
-        default: auto
-        key_name: slug
+      dir_meta_file: README.md
   - pub-social:
       site_name_in_title:
         location: after
@@ -33,3 +39,8 @@ plugins:
       og:
         enabled: true
         locale: en_us
+  - section-index
+
+markdown_extensions:
+  - footnotes
+  - tables
