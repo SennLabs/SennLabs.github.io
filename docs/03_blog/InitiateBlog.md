@@ -1,6 +1,7 @@
 ---
 date: 2025-01-13
-title: Building The Blog 
+title: Building The Blog
+slug: BuildingTheBlog
 categories:
   - Blog
 tags:
