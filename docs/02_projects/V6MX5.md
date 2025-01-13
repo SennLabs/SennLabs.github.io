@@ -28,5 +28,5 @@ They also have an improved ECU that can be tuned.
 
 
 ## To Do:
-Install lower ratio diff
-Finish new Gauge Cluster
+- Install lower ratio diff
+- Finish new Gauge Cluster

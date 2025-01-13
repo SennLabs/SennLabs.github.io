@@ -34,6 +34,6 @@ Nano-ITX, Pico-ITX or an odd proprietary form factor will be the next cheapest a
 
 
 ## References:
-[^1]: (2011) ReadyNAS duo and NV+ hardware manual. Available at: https://www.downloads.netgear.com/files/GDC/RND2110/Duov1_NV+v1_HW_en_06Dec11.pdf
+[^1]: https://www.downloads.netgear.com/files/GDC/RND2110/Duov1_NV+v1_HW_en_06Dec11.pdf
 
 
