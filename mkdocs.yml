@@ -3,7 +3,6 @@ site_description: SennLab Blogs
 site_url: https://blog.sennlab.com
 
 theme:
-theme:
   name: material
   logo: assets/logo.svg
   favicon: assets/logo.svg

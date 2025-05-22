@@ -9,7 +9,7 @@ tags:
   - Android
   - ClusterCompute
   - HPC
-hide: [toc, tags]
+#hide: [toc, tags]
 publish: true
 comments: true
 ---
