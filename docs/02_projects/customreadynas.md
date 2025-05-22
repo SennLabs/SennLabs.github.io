@@ -1,7 +1,7 @@
 ---
 title: ReadyNAS NV+ Custom
 slug: customreadynas
-publish: true
+publish: false
 ---
 
 # Custom ReadyNAS NV+

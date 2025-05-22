@@ -2,6 +2,7 @@
 date: 2025-01-13
 title: Building The Blog
 slug: BuildingTheBlog
+comments: true
 categories:
   - Blog
 tags:
@@ -10,7 +11,6 @@ tags:
   - Blog
 hide: [toc, tags]
 publish: true
-comments: true
 ---
 
 

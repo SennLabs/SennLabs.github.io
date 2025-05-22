@@ -1,6 +1,5 @@
 ---
 title: Blog
-slug: blog
-publish: true
+slug: Blog
 hide: [toc, navigation]
 ---

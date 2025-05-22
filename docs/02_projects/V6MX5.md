@@ -2,6 +2,7 @@
 title: V6 Miata
 slug: v6mx5
 publish: true
+comments: true
 ---
 
 # NA MX5/Miata V6
