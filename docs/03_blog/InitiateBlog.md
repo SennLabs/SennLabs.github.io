@@ -4,11 +4,11 @@ title: Building The Blog
 slug: BuildingTheBlog
 comments: true
 categories:
-  - Blog
+  - blog
 tags:
   - Automation
   - mkdocs
-  - Blog
+  - blog
 hide: [toc, tags]
 publish: true
 ---

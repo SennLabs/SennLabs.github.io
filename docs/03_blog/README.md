@@ -1,5 +1,5 @@
 ---
-title: Blog
-slug: Blog
+title: blog
+slug: blog
 hide: [toc, navigation]
 ---
